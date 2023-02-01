@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\827068\\Documents\\Unreal Projects\\Dupa\\Plugins\\UE5\\PowerIK\\HostProject\\Plugins\\PowerIK\\Source\\PowerIKRuntime\\PowerIKRuntime.Build.cs",
+		"C:\\Users\\827068\\Documents\\Unreal Projects\\Dupa\\Plugins\\UE5\\PowerIK\\HostProject\\Plugins\\PowerIK\\Source\\PowerIKTool\\PowerIKTool.Build.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

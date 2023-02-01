@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HelpfulFunctions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kubac\Documents\Unreal Projects\TestDoArmour\Intermediate\Build\Win64\TestDoArmourEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\kubac\Documents\Unreal Projects\TestDoArmour\Plugins\HelpfulFunctions\Intermediate\Build\Win64\UnrealEditor\Development\HelpfulFunctions\Module.HelpfulFunctions.cpp.obj"
+"C:\Users\kubac\Documents\Unreal Projects\TestDoArmour\Plugins\HelpfulFunctions\Intermediate\Build\Win64\UnrealEditor\Development\HelpfulFunctions\Module.HelpfulFunctions.gen.cpp.obj"
+"C:\Users\kubac\Documents\Unreal Projects\TestDoArmour\Plugins\HelpfulFunctions\Intermediate\Build\Win64\UnrealEditor\Development\HelpfulFunctions\Default.rc2.res"
+/OUT:"C:\Users\kubac\Documents\Unreal Projects\TestDoArmour\Plugins\HelpfulFunctions\Intermediate\Build\Win64\UnrealEditor\Development\HelpfulFunctions\UnrealEditor-HelpfulFunctions.lib"

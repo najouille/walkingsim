@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PowerIKTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Mzr\Unreal Projects\The Armour Project\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Mzr\Unreal Projects\The Armour Project\Plugins\PowerIK\HostProject\Plugins\PowerIK\Intermediate\Build\Win64\UnrealEditor\Development\PowerIKTool\Module.PowerIKTool.cpp.obj"
+"F:\Mzr\Unreal Projects\The Armour Project\Plugins\PowerIK\HostProject\Plugins\PowerIK\Intermediate\Build\Win64\UnrealEditor\Development\PowerIKTool\Module.PowerIKTool.gen.cpp.obj"
+"F:\Mzr\Unreal Projects\The Armour Project\Plugins\PowerIK\HostProject\Plugins\PowerIK\Intermediate\Build\Win64\UnrealEditor\Development\PowerIKTool\Default.rc2.res"
+/OUT:"F:\Mzr\Unreal Projects\The Armour Project\Plugins\PowerIK\HostProject\Plugins\PowerIK\Intermediate\Build\Win64\UnrealEditor\Development\PowerIKTool\UnrealEditor-PowerIKTool.lib"

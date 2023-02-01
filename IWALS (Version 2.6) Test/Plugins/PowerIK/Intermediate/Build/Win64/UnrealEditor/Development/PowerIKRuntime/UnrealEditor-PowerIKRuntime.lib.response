@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PowerIKRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE - Projects\UE-5\IWALS (NAPRAWA) 5.0 - 2\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE - Projects\UE-5\IWALS (NAPRAWA) 5.0 - 2\Plugins\PowerIK\Intermediate\Build\Win64\UnrealEditor\Development\PowerIKRuntime\Module.PowerIKRuntime.cpp.obj"
+"D:\UE - Projects\UE-5\IWALS (NAPRAWA) 5.0 - 2\Plugins\PowerIK\Intermediate\Build\Win64\UnrealEditor\Development\PowerIKRuntime\Module.PowerIKRuntime.gen.cpp.obj"
+"D:\UE - Projects\UE-5\IWALS (NAPRAWA) 5.0 - 2\Plugins\PowerIK\Intermediate\Build\Win64\UnrealEditor\Development\PowerIKRuntime\Default.rc2.res"
+/OUT:"D:\UE - Projects\UE-5\IWALS (NAPRAWA) 5.0 - 2\Plugins\PowerIK\Intermediate\Build\Win64\UnrealEditor\Development\PowerIKRuntime\UnrealEditor-PowerIKRuntime.lib"

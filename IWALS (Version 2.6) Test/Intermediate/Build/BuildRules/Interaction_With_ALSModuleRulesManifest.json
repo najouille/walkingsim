@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\UE - Projects\\UE-5\\IWALS (NAPRAWA) 5.0 - 2\\Plugins\\HelpfulFunctions\\Source\\HelpfulFunctions\\HelpfulFunctions.Build.cs",
+		"D:\\UE - Projects\\UE-5\\IWALS (NAPRAWA) 5.0 - 2\\Plugins\\PowerIK\\Source\\PowerIKRuntime\\PowerIKRuntime.Build.cs",
+		"D:\\UE - Projects\\UE-5\\IWALS (NAPRAWA) 5.0 - 2\\Plugins\\PowerIK\\Source\\PowerIKTool\\PowerIKTool.Build.cs",
+		"D:\\UE - Projects\\UE-5\\IWALS (NAPRAWA) 5.0 - 2\\Intermediate\\Source\\Interaction_With_ALS.Build.cs",
+		"D:\\UE - Projects\\UE-5\\IWALS (NAPRAWA) 5.0 - 2\\Intermediate\\Source\\Interaction_With_ALS.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
