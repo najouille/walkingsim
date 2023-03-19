@@ -3,7 +3,6 @@
 	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
-	
 	"Plugins": [
 		{
 			"Name": "SimplySettings",
@@ -11,6 +10,14 @@
 		},
 		{
 			"Name": "SimplyWindow",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
 		}
 	]
