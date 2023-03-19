@@ -3,16 +3,7 @@
 	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "ProjetSimerva",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
+	
 	"Plugins": [
 		{
 			"Name": "SimplySettings",

@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Megascans/3D_Assets/Massive_Canyon_Sandstone_Cliff_vjrmfb1ab
+Content/missiontominerva/Geometries/KB3D_MTM_BldgLgPowerStation_A_StorageModule.uasset
+Content/missiontominerva/Geometries/KB3D_MTM_PropStorageSorting_A_StorageModule.uasset
